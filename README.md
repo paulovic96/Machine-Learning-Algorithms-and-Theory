@@ -4,4 +4,9 @@ Common machine learning algorithms and underlying theory
 - linear Regression
 - penalized Regression
 - K-fold Cross Validation
-- SVM
+- SVM / Kernel SVM
+- PCA / Kernel PCA
+- MDS
+- Isomap
+- K-Means-Clustering
+- Spectral Clustering
